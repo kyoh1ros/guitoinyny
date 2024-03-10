@@ -1,5 +1,5 @@
 const CONFIG = {
-  introTitle: "Hello Bảo Quyên iu dấu của Vũ à!",
+  introTitle: "Hello Thuận Thảo iu dấu của Vũ à!",
   introDesc: `Trái đất vốn lạ thường\n
     Mà sao em cứ đi nhầm đường\n
     Lạc vào tim anh lẻ loi\n
@@ -15,5 +15,5 @@ const CONFIG = {
   mess: "Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘",
   messDesc: "Đi cùng anh đến tận cùng thời gian nhé babiii :3",
   btnAccept: "Okiiiii lun <3",
-  messLink: "https://www.messenger.com/t/100025020180754", //link mess của các bạn. VD: https://m.me/nam.nodemy
+  messLink: "", //link mess của các bạn. VD: https://m.me/nam.nodemy
 };
